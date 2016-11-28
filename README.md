@@ -4,7 +4,7 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab5-soa
 NIA    | User name | Repo | Improvement | Score
 -------|-----------|------|-------------|--------
 647002 | AGUILAR REQUENA, EDUARDO 
-666156 | BAREA LÓPEZ, DANIEL 
+666156 | BAREA LÓPEZ, DANIEL | [test repo](https://github.com/dbarelop/lab5-soa/tree/test)
 666179 | BARRIOS GIL, ÁLVARO 
 612595 | BELTRÁN PIÑOL, VÍCTOR 
 683326 | BINTANED BASA, JESÚS 
