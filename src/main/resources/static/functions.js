@@ -6,8 +6,19 @@ $(document).ready(function() {
 function registerSearch() {
 	$("#search").submit(function(ev){
 		event.preventDefault();
-		$.get($(this).attr('action'), {q: $("#q").val()}, function(data) {
-			$("#resultsBlock").html(Mustache.render(template, data));
+		var search = $('#q').val();
+		var q = search.replace(/\w+:\w+/g, '').replace(/ +/g, ' ');
+        var data = { q: q };
+        // Add all the commands to the data object (command:parameter)
+		var matches = search.match(/\w+:\w+/g);
+		if (matches != null) {
+			matches.forEach(function(c) {
+                var tokens = c.split(':');
+                data[tokens[0]] = tokens[1];
+            });
+        }
+		$.get($(this).attr('action'), data, function(res) {
+			$("#resultsBlock").html(Mustache.render(template, res));
 		});	
 	});
 }
