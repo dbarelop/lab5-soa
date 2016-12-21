@@ -16,8 +16,8 @@ NIA    | User name | Repo | Improvement | Score
 682531 | JUAN CIRIACO, ÁLVARO | [Test Repo](https://github.com/aJuanCiri/lab5-soa/tree/test)
 544393 | LAHOZ EGEA, CRISTINA | [test repo](https://github.com/cristinalahoz/lab5-soa/tree/test) | |
 622612 | MARTIN SEGURA, SERGIO  
-681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab5-soa/tree/test) 
-576307 | MARTÍNEZ PÉREZ, ADRIAN | [test repo](https://github.com/Electryk/lab5-soa/tree/test) 
+681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab5-soa/tree/test)
+576307 | MARTÍNEZ PÉREZ, ADRIAN | [test repo](https://github.com/Electryk/lab5-soa/tree/test)
 540891 | MENENDEZ MOYA, FRANCISCO 
 680882 | MORENO JIMENO, RUBÉN | [test repo](https://github.com/nebur395/lab5-soa/tree/test) | Improve functionality of search with lang parameter and change GUI forms |
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO | [Test Repo](https://github.com/luisemz/lab5-soa/tree/test)
@@ -27,9 +27,9 @@ NIA    | User name | Repo | Improvement | Score
 683546 | PÉREZ CANCER, BEATRIZ | [test repo](https://github.com/beapc18/lab5-soa/tree/test)
 686329 | ROIG JIMENEZ, ANA | [test repo](https://github.com/anicacortes/lab5-soa/tree/test)
 559207 | RUEDA MACÍAS, DANIEL | [test branch](https://github.com/danirueda/lab5-soa/tree/test) |
-610344 | SALUEÑA SEDILES, ASIER | [TestRepo](https://github.com/asierhandball/lab5-soa/tree/test) 
-680182 | SANZ ALCAINE, JORGE | [TestRepo](https://github.com/sanz1995/lab5-soa/tree/test) 
+610344 | SALUEÑA SEDILES, ASIER | [TestRepo](https://github.com/asierhandball/lab5-soa/tree/test)
+680182 | SANZ ALCAINE, JORGE | [TestRepo](https://github.com/sanz1995/lab5-soa/tree/test)
 534521 | SANZ VIDAL, AITOR | [TestRepo](https://github.com/aitorsanz/lab5-soa/tree/test)
 618051 | TOLON MARTÍN, CARLOS JAVIER | [test repo](https://github.com/ctolon22/lab5-soa/tree/test) | |
-643821 | VELA GARCÍA, JUAN | [test repo](https://github.com/juan-vg/lab5-soa/tree/test) 
+643821 | VELA GARCÍA, JUAN | [test repo](https://github.com/juan-vg/lab5-soa/tree/test)
 679609 | VIÑUALES SÁNCHEZ, PABLO | [test repo](https://github.com/strummerTFIU/lab5-soa/tree/test)
