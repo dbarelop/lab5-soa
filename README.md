@@ -29,7 +29,7 @@ NIA    | User name | Repo | Improvement | Score
 559207 | RUEDA MACÍAS, DANIEL | [test branch](https://github.com/danirueda/lab5-soa/tree/test) |
 610344 | SALUEÑA SEDILES, ASIER | [TestRepo](https://github.com/asierhandball/lab5-soa/tree/test) 
 680182 | SANZ ALCAINE, JORGE | [TestRepo](https://github.com/sanz1995/lab5-soa/tree/test) 
-534521 | SANZ VIDAL, AITOR 
+534521 | SANZ VIDAL, AITOR | [TestRepo](https://github.com/aitorsanz/lab5-soa/tree/test)
 618051 | TOLON MARTÍN, CARLOS JAVIER | [test repo](https://github.com/ctolon22/lab5-soa/tree/test) | |
 643821 | VELA GARCÍA, JUAN | [test repo](https://github.com/juan-vg/lab5-soa/tree/test) 
 679609 | VIÑUALES SÁNCHEZ, PABLO | [test repo](https://github.com/strummerTFIU/lab5-soa/tree/test)
