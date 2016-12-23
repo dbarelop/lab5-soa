@@ -11,10 +11,10 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class SearchController {
 
-	@Autowired
-	  private ProducerTemplate producerTemplate;
+    @Autowired
+    private ProducerTemplate producerTemplate;
 
-	@RequestMapping("/")
+    @RequestMapping("/")
     public String index() {
         return "index";
     }
