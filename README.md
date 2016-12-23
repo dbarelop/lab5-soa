@@ -3,7 +3,7 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab5-soa
 
 NIA    | User name | Repo | Improvement | Score
 -------|-----------|------|-------------|--------
-647002 | AGUILAR REQUENA, EDUARDO
+647002 | AGUILAR REQUENA, EDUARDO | [test repo](https://github.com/McGredu/lab5-soa/tree/test)
 666156 | BAREA LÓPEZ, DANIEL
 666179 | BARRIOS GIL, ÁLVARO | [test repo](https://github.com/deerter/lab5-soa/tree/test)
 612595 | BELTRÁN PIÑOL, VÍCTOR | [test repo](https://github.com/Victorbp09/lab5-soa/tree/test)
@@ -16,9 +16,9 @@ NIA    | User name | Repo | Improvement | Score
 682531 | JUAN CIRIACO, ÁLVARO | [Test Repo](https://github.com/aJuanCiri/lab5-soa/tree/test)
 544393 | LAHOZ EGEA, CRISTINA | [test repo](https://github.com/cristinalahoz/lab5-soa/tree/test) | |
 622612 | MARTIN SEGURA, SERGIO  
-681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab5-soa/tree/test)
-576307 | MARTÍNEZ PÉREZ, ADRIAN | [test repo](https://github.com/Electryk/lab5-soa/tree/test)
-540891 | MENENDEZ MOYA, FRANCISCO 
+681061 | MARTÍNEZ MENÉNDEZ, ALBERTO | [test repo](https://github.com/Belberus/lab5-soa/tree/test) 
+576307 | MARTÍNEZ PÉREZ, ADRIAN | [test repo](https://github.com/Electryk/lab5-soa/tree/test) 
+540891 | MENENDEZ MOYA, FRANCISCO | [test repository](https://github.com/fmenemo/lab5-soa/tree/test) | |
 680882 | MORENO JIMENO, RUBÉN | [test repo](https://github.com/nebur395/lab5-soa/tree/test) | Improve functionality of search with lang parameter and change GUI forms |
 750849 | MOSQUERA ZAPATA, LUIS EDUARDO | [Test Repo](https://github.com/luisemz/lab5-soa/tree/test)
 650448 | MURILLO MAGDALENA, JAVIER | [test repo](https://github.com/javmurillo/lab5-soa/tree/test) | Max command and tweet functionality
